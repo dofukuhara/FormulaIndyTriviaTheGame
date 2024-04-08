@@ -1,0 +1,139 @@
+{
+  "indyTrivia" : {
+    "version": 1,
+    "seasons": 
+    [
+      {
+        "year": 2024,
+        "circuits": 
+        [
+          {
+            "circuitId": 1,
+            "eventName": "Firestone Grand Prix of St. Petersburg",
+            "eventDate": "10/03/2024",
+            "location": "St. Petersburg",
+            "trackOutlineUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/StPetersburg.png",
+            "trackOutlineImageType": "RECTANGLE",
+            "eventLogoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/EventLogos/2024/StPetersburg2024.png",
+            "eventLogoImageType": "SQUARE",
+            "laps": 100,
+            "distance": 180
+          },
+          {
+            "circuitId": 2,
+            "eventName": "$1 Million Challenge",
+            "eventDate": "24/03/2024",
+            "location": "Thermal Club",
+            "trackOutlineUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/ThermalClub.png",
+            "trackOutlineImageType": "RECTANGLE",
+            "eventLogoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackLogos/ThermalClub.png",
+            "eventLogoImageType": "SQUARE",
+            "laps": 20,
+            "distance": 61.34
+          }
+        ],
+        "drivers":
+        [
+          {
+            "driverId": 1,
+            "name": "Romain Grosjean",
+            "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Drivers/IndyCar-Series/Headshot/RomainGrosjean.jpg",
+            "dob": "17/04/1986",
+            "photoImageType": "SQUARE",
+            "carId": 77,
+            "teamId": 1,
+            "nationality": "FR",
+            "season": "FULL"
+          },
+          {
+            "driverId": 2,
+            "name": "Agustín Canapino",
+            "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Drivers/IndyCar-Series/Headshot/AgustinCanapino.jpg",
+            "dob": "19/01/1990",
+            "photoImageType": "SQUARE",
+            "carId": 78,
+            "teamId": 1,
+            "nationality": "AR",
+            "season": "FULL"
+          },
+          {
+            "driverId": 3,
+            "name": "Felix Rosenqvist",
+            "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Drivers/IndyCar-Series/Headshot/FelixRosenqvist.jpg",
+            "dob": "07/11/1991",
+            "photoImageType": "SQUARE",
+            "carId": 60,
+            "teamId": 2,
+            "nationality": "SE",
+            "season": "FULL"
+          },
+          {
+            "driverId": 4,
+            "name": "Tom Blomqvist",
+            "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Drivers/IndyCar-Series/Headshot/TomBlomqvist.jpg",
+            "dob": "29/11/1993",
+            "photoImageType": "SQUARE",
+            "carId": 66,
+            "teamId": 2,
+            "nationality": "GB",
+            "season": "FULL"
+          }
+        ],
+        "cars":
+        [
+          {
+            "cardId": 60,
+            "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Liveries/RoadStreet/60-SiriusXM-BonJovi.png",
+            "photoImageType": "RECTANGLE",
+            "driverId": 3,
+            "teamId": 2
+          },
+          {
+            "cardId": 66,
+            "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Liveries/RoadStreet/66-ArcticWolf.png",
+            "photoImageType": "RECTANGLE",
+            "driverId": 4,
+            "teamId": 2
+          },
+          {
+            "cardId": 77,
+            "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Liveries/RoadStreet/77-JHR.png",
+            "photoImageType": "RECTANGLE",
+            "driverId": 1,
+            "teamId": 1
+          },
+          {
+            "cardId": 78,
+            "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Liveries/RoadStreet/78-JHR.png",
+            "photoImageType": "RECTANGLE",
+            "driverId": 2,
+            "teamId": 1
+          }
+        ],
+        "teams":
+        [
+          {
+            "teamId": 1,
+            "name": "Juncos Hollinger Racing",
+            "logoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/Juncos-Hollinger-Racing.png",
+            "logoImageType": "SQUARE",
+            "hq": "Indianapolis, Indiana",
+            "debutYear": 2017,
+            "carsId": [ 77, 78 ],
+            "driversId": [ 1, 2 ]
+          },
+          {
+            "teamId": 2,
+            "name": "Meyer Shank Racing",
+            "logoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/Meyer-Shank-Racing.png",
+            "logoImageType": "SQUARE",
+            "hq": "Pataskala, Ohio",
+            "debutYear": 2017,
+            "carsId": [ 60, 66 ],
+            "driversId": [ 3, 4 ]
+          }
+        ]
+      }
+    ]
+  }
+}
