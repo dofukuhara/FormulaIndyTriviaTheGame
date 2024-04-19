@@ -83,6 +83,8 @@
         [
           {
             "cardId": 60,
+			"carNumberUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Endplates/60-Pink-T.png",
+            "carNumberImageType": "SQUARE",
             "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Liveries/RoadStreet/60-SiriusXM-BonJovi.png",
             "photoImageType": "RECTANGLE",
             "driverId": 3,
@@ -90,6 +92,8 @@
           },
           {
             "cardId": 66,
+			"carNumberUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Endplates/66-Pink-T.png",
+            "carNumberImageType": "SQUARE",
             "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Liveries/RoadStreet/66-ArcticWolf.png",
             "photoImageType": "RECTANGLE",
             "driverId": 4,
@@ -97,6 +101,8 @@
           },
           {
             "cardId": 77,
+			"carNumberUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Endplates/77-Green-T.png",
+            "carNumberImageType": "SQUARE",
             "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Liveries/RoadStreet/77-JHR.png",
             "photoImageType": "RECTANGLE",
             "driverId": 1,
@@ -104,6 +110,8 @@
           },
           {
             "cardId": 78,
+			"carNumberUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Endplates/78-Green-T.png",
+            "carNumberImageType": "SQUARE",
             "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Liveries/RoadStreet/78-JHR.png",
             "photoImageType": "RECTANGLE",
             "driverId": 2,
