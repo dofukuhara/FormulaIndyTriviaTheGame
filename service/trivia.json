@@ -43,7 +43,11 @@
             "carId": 77,
             "teamId": 1,
             "nationality": "FR",
-            "season": "FULL"
+            "season": "FULL",
+            "carNumberImageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Endplates/77-Green-T.png",
+            "carNumberImageType": "SMALL_ICON",
+            "countryFlagUrl": "https://flagsapi.com/FR/flat/32.png",
+            "countryFlagImageType": "SMALL_ICON"
           },
           {
             "driverId": 2,
@@ -54,7 +58,11 @@
             "carId": 78,
             "teamId": 1,
             "nationality": "AR",
-            "season": "FULL"
+            "season": "FULL",
+            "carNumberImageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Endplates/78-Green-T.png",
+            "carNumberImageType": "SMALL_ICON",
+            "countryFlagUrl": "https://flagsapi.com/AR/flat/32.png",
+            "countryFlagImageType": "SMALL_ICON"
           },
           {
             "driverId": 3,
@@ -65,7 +73,11 @@
             "carId": 60,
             "teamId": 2,
             "nationality": "SE",
-            "season": "FULL"
+            "season": "FULL",
+            "carNumberImageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Endplates/60-Pink-T.png",
+            "carNumberImageType": "SMALL_ICON",
+            "countryFlagUrl": "https://flagsapi.com/SE/flat/32.png",
+            "countryFlagImageType": "SMALL_ICON"
           },
           {
             "driverId": 4,
@@ -76,7 +88,11 @@
             "carId": 66,
             "teamId": 2,
             "nationality": "GB",
-            "season": "FULL"
+            "season": "FULL",
+            "carNumberImageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Endplates/66-Pink-T.png",
+            "carNumberImageType": "SMALL_ICON",
+            "countryFlagUrl": "https://flagsapi.com/GB/flat/32.png",
+            "countryFlagImageType": "SMALL_ICON"
           }
         ],
         "cars":
@@ -128,7 +144,10 @@
             "hq": "Indianapolis, Indiana",
             "debutYear": 2017,
             "carsId": [ 77, 78 ],
-            "driversId": [ 1, 2 ]
+            "driversId": [ 1, 2 ],
+            "manufacturer": "Chevrolet",
+            "manufacturerLogoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Logos/chevrolet-logo-icon.png",
+            "manufacturerLogoImageType": "SMALL_ICON"
           },
           {
             "teamId": 2,
@@ -138,7 +157,10 @@
             "hq": "Pataskala, Ohio",
             "debutYear": 2017,
             "carsId": [ 60, 66 ],
-            "driversId": [ 3, 4 ]
+            "driversId": [ 3, 4 ],
+            "manufacturer": "Honda",
+            "manufacturerLogoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Logos/honda-logo-icon.png",
+            "manufacturerLogoImageType": "SMALL_ICON"
           }
         ]
       }
