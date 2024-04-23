@@ -625,6 +625,51 @@
             "carNumberImageType": "SMALL_ICON",
             "countryFlagUrl": "https://flagsapi.com/AU/flat/32.png",
             "countryFlagImageType": "SMALL_ICON"
+          },
+          {
+            "driverId": 28,
+            "name": "Callum Ilott",
+            "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Drivers/IndyCar-Series/Headshot/CallumIlott.jpg",
+            "dob": "11/11/1998",
+            "photoImageType": "SQUARE",
+            "carId": 6,
+            "teamId": 3,
+            "nationality": "GB",
+            "season": "RESERVE",
+            "carNumberImageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Endplates/6-Papaya-T.png",
+            "carNumberImageType": "SMALL_ICON",
+            "countryFlagUrl": "https://flagsapi.com/GB/flat/32.png",
+            "countryFlagImageType": "SMALL_ICON"
+          },
+          {
+            "driverId": 29,
+            "name": "Théo Pourchaire",
+            "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Drivers/IndyCar-Series/Headshot/TheoPourchaire.jpg",
+            "dob": "19/07/2003",
+            "photoImageType": "SQUARE",
+            "carId": 6,
+            "teamId": 3,
+            "nationality": "FR",
+            "season": "RESERVE",
+            "carNumberImageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Endplates/6-Papaya-T.png",
+            "carNumberImageType": "SMALL_ICON",
+            "countryFlagUrl": "https://flagsapi.com/FR/flat/32.png",
+            "countryFlagImageType": "SMALL_ICON"
+          },
+          {
+            "driverId": 30,
+            "name": "Nolan Siegel",
+            "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Drivers/IndyCar-Series/Headshot/NolanSiegel.jpg",
+            "dob": "07/11/2004",
+            "photoImageType": "SQUARE",
+            "carId": 51,
+            "teamId": 5,
+            "nationality": "US",
+            "season": "PARTIAL",
+            "carNumberImageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Endplates/51-WhiteRedTrim-T.png",
+            "carNumberImageType": "SMALL_ICON",
+            "countryFlagUrl": "https://flagsapi.com/US/flat/32.png",
+            "countryFlagImageType": "SMALL_ICON"
           }
         ],
         "cars": [
@@ -687,9 +732,27 @@
             "cardId": 6,
             "carNumberUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Endplates/6-Papaya-T.png",
             "carNumberImageType": "SQUARE",
-            "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Liveries/RoadStreet/6-NTTDATA-Ilott.png",
+            "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Liveries/Default-2024-RS.png",
             "photoImageType": "RECTANGLE",
             "driverId": 7,
+            "teamId": 3
+          },
+          {
+            "cardId": 6,
+            "carNumberUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Endplates/6-Papaya-T.png",
+            "carNumberImageType": "SQUARE",
+            "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Liveries/RoadStreet/6-NTTDATA-Ilott.png",
+            "photoImageType": "RECTANGLE",
+            "driverId": 28,
+            "teamId": 3
+          },
+          {
+            "cardId": 6,
+            "carNumberUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Endplates/6-Papaya-T.png",
+            "carNumberImageType": "SQUARE",
+            "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Liveries/RoadStreet/6-Onsemi-Pourchaire.png",
+            "photoImageType": "RECTANGLE",
+            "driverId": 29,
             "teamId": 3
           },
           {
@@ -762,6 +825,15 @@
             "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Liveries/RoadStreet/51-Blank.png",
             "photoImageType": "RECTANGLE",
             "driverId": 15,
+            "teamId": 5
+          },
+          {
+            "cardId": 51,
+            "carNumberUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Endplates/51-WhiteRedTrim-T.png",
+            "carNumberImageType": "SQUARE",
+            "photoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Liveries/RoadStreet/51-KingTaco.png",
+            "photoImageType": "RECTANGLE",
+            "driverId": 30,
             "teamId": 5
           },
           {
@@ -929,7 +1001,9 @@
             "driversId": [
               6,
               7,
-              8
+              8,
+              28,
+              29
             ],
             "manufacturer": "Chevrolet",
             "manufacturerLogoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Logos/chevrolet-logo-icon.png",
@@ -973,7 +1047,8 @@
             ],
             "driversId": [
               14,
-              15
+              15,
+              30
             ],
             "manufacturer": "Honda",
             "manufacturerLogoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Logos/honda-logo-icon.png",
