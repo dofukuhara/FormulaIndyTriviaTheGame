@@ -1153,7 +1153,427 @@
             "manufacturerLogoUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Logos/chevrolet-logo-icon.png",
             "manufacturerLogoImageType": "SMALL_ICON"
           }
-        ]
+        ],
+        "questions":
+        {
+          "english":
+          [
+            {
+              "questionId": 1,
+              "category": "car",
+              "question": "Question 1",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Liveries/RoadStreet/14-Sexton.png",
+              "imageType": "RECTANGLE",
+              "right": "Right 1",
+              "wrongs":
+              [
+                "Wrong 1a",
+                "Wrong 1b",
+                "Wrong 1c",
+                "Wrong 1d",
+                "Wrong 1e",
+                "Wrong 1f"
+              ]
+            },
+            {
+              "questionId": 2,
+              "category": "car",
+              "question": "Question 2",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Liveries/RoadStreet/41-Pray.png",
+              "imageType": "RECTANGLE",
+              "right": "Right 2",
+              "wrongs":
+              [
+                "Wrong 2a",
+                "Wrong 2b",
+                "Wrong 2c",
+                "Wrong 2d",
+                "Wrong 2e",
+                "Wrong 2f"
+              ]
+            },
+            {
+              "questionId": 3,
+              "category": "circuit",
+              "question": "Question 3",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/StPetersburg.png",
+              "imageType": "RECTANGLE",
+              "right": "Right 3",
+              "wrongs":
+              [
+                "Wrong 3a",
+                "Wrong 3b",
+                "Wrong 3c",
+                "Wrong 3d",
+                "Wrong 3e",
+                "Wrong 3f"
+              ]
+            },
+            {
+              "questionId": 4,
+              "category": "circuit",
+              "question": "Question 4",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/EventLogos/2024/StPetersburg2024.png",
+              "imageType": "SQUARE",
+              "right": "Right 4",
+              "wrongs":
+              [
+                "Wrong 4a",
+                "Wrong 4b",
+                "Wrong 4c",
+                "Wrong 4d",
+                "Wrong 4e",
+                "Wrong 4f"
+              ]
+            },
+            {
+              "questionId": 5,
+              "category": "driver",
+              "question": "Question 5",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Drivers/IndyCar-Series/Headshot/SantinoFerrucci.jpg",
+              "imageType": "SQUARE",
+              "right": "Right 5",
+              "wrongs":
+              [
+                "Wrong 5a",
+                "Wrong 5b",
+                "Wrong 5c",
+                "Wrong 5d",
+                "Wrong 5e",
+                "Wrong 5f"
+              ]
+            },
+            {
+              "questionId": 6,
+              "category": "driver",
+              "question": "Question 6",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Endplates/14-Black-T.png",
+              "imageType": "SQUARE",
+              "right": "Right 6",
+              "wrongs":
+              [
+                "Wrong 6a",
+                "Wrong 6b",
+                "Wrong 6c",
+                "Wrong 6d",
+                "Wrong 6e",
+                "Wrong 6f"
+              ]
+            },
+            {
+              "questionId": 7,
+              "category": "team",
+              "question": "Question 7",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ChipGanassiRacing.png",
+              "imageType": "SQUARE",
+              "right": "Right 7",
+              "wrongs":
+              [
+                "Wrong 7a",
+                "Wrong 7b",
+                "Wrong 7c",
+                "Wrong 7d",
+                "Wrong 7e",
+                "Wrong 7f"
+              ]
+            },
+            {
+              "questionId": 8,
+              "category": "team",
+              "question": "Question 8",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Logos/honda-logo-icon.png",
+              "imageType": "SQUARE",
+              "right": "Right 8",
+              "wrongs":
+              [
+                "Wrong 8a",
+                "Wrong 8b",
+                "Wrong 8c",
+                "Wrong 8d",
+                "Wrong 8e",
+                "Wrong 8f"
+              ]
+            }
+          ],
+          "portuguese":
+          [
+            {
+              "questionId": 1,
+              "category": "car",
+              "question": "Pergunta 1",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Liveries/RoadStreet/14-Sexton.png",
+              "imageType": "RECTANGLE",
+              "right": "Certa 1",
+              "wrongs":
+              [
+                "Errada 1a",
+                "Errada 1b",
+                "Errada 1c",
+                "Errada 1d",
+                "Errada 1e",
+                "Errada 1f"
+              ]
+            },
+            {
+              "questionId": 2,
+              "category": "car",
+              "question": "Pergunta 2",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Liveries/RoadStreet/41-Pray.png",
+              "imageType": "RECTANGLE",
+              "right": "Certa 2",
+              "wrongs":
+              [
+                "Errada 2a",
+                "Errada 2b",
+                "Errada 2c",
+                "Errada 2d",
+                "Errada 2e",
+                "Errada 2f"
+              ]
+            },
+            {
+              "questionId": 3,
+              "category": "circuit",
+              "question": "Pergunta 3",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/StPetersburg.png",
+              "imageType": "RECTANGLE",
+              "right": "Certa 3",
+              "wrongs":
+              [
+                "Errada 3a",
+                "Errada 3b",
+                "Errada 3c",
+                "Errada 3d",
+                "Errada 3e",
+                "Errada 3f"
+              ]
+            },
+            {
+              "questionId": 4,
+              "category": "circuit",
+              "question": "Pergunta 4",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/EventLogos/2024/StPetersburg2024.png",
+              "imageType": "SQUARE",
+              "right": "Certa 4",
+              "wrongs":
+              [
+                "Errada 4a",
+                "Errada 4b",
+                "Errada 4c",
+                "Errada 4d",
+                "Errada 4e",
+                "Errada 4f"
+              ]
+            },
+            {
+              "questionId": 5,
+              "category": "driver",
+              "question": "Pergunta 5",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Drivers/IndyCar-Series/Headshot/SantinoFerrucci.jpg",
+              "imageType": "SQUARE",
+              "right": "Certa 5",
+              "wrongs":
+              [
+                "Errada 5a",
+                "Errada 5b",
+                "Errada 5c",
+                "Errada 5d",
+                "Errada 5e",
+                "Errada 5f"
+              ]
+            },
+            {
+              "questionId": 6,
+              "category": "driver",
+              "question": "Pergunta 6",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Endplates/14-Black-T.png",
+              "imageType": "SQUARE",
+              "right": "Certa 6",
+              "wrongs":
+              [
+                "Errada 6a",
+                "Errada 6b",
+                "Errada 6c",
+                "Errada 6d",
+                "Errada 6e",
+                "Errada 6f"
+              ]
+            },
+            {
+              "questionId": 7,
+              "category": "team",
+              "question": "Pergunta 7",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ChipGanassiRacing.png",
+              "imageType": "SQUARE",
+              "right": "Certa 7",
+              "wrongs":
+              [
+                "Errada 7a",
+                "Errada 7b",
+                "Errada 7c",
+                "Errada 7d",
+                "Errada 7e",
+                "Errada 7f"
+              ]
+            },
+            {
+              "questionId": 8,
+              "category": "team",
+              "question": "Pergunta 8",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Logos/honda-logo-icon.png",
+              "imageType": "SQUARE",
+              "right": "Certa 8",
+              "wrongs":
+              [
+                "Errada 8a",
+                "Errada 8b",
+                "Errada 8c",
+                "Errada 8d",
+                "Errada 8e",
+                "Errada 8f"
+              ]
+            }
+          ],
+          "spanish":
+          [
+            {
+              "questionId": 1,
+              "category": "car",
+              "question": "Pergunta 1",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Liveries/RoadStreet/14-Sexton.png",
+              "imageType": "RECTANGLE",
+              "right": "Correcta 1",
+              "wrongs":
+              [
+                "Incorrecta 1a",
+                "Incorrecta 1b",
+                "Incorrecta 1c",
+                "Incorrecta 1d",
+                "Incorrecta 1e",
+                "Incorrecta 1f"
+              ]
+            },
+            {
+              "questionId": 2,
+              "category": "car",
+              "question": "Pergunta 2",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Liveries/RoadStreet/41-Pray.png",
+              "imageType": "RECTANGLE",
+              "right": "Correcta 2",
+              "wrongs":
+              [
+                "Incorrecta 2a",
+                "Incorrecta 2b",
+                "Incorrecta 2c",
+                "Incorrecta 2d",
+                "Incorrecta 2e",
+                "Incorrecta 2f"
+              ]
+            },
+            {
+              "questionId": 3,
+              "category": "circuit",
+              "question": "Pergunta 3",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/StPetersburg.png",
+              "imageType": "RECTANGLE",
+              "right": "Correcta 3",
+              "wrongs":
+              [
+                "Incorrecta 3a",
+                "Incorrecta 3b",
+                "Incorrecta 3c",
+                "Incorrecta 3d",
+                "Incorrecta 3e",
+                "Incorrecta 3f"
+              ]
+            },
+            {
+              "questionId": 4,
+              "category": "circuit",
+              "question": "Pergunta 4",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/EventLogos/2024/StPetersburg2024.png",
+              "imageType": "SQUARE",
+              "right": "Correcta 4",
+              "wrongs":
+              [
+                "Incorrecta 4a",
+                "Incorrecta 4b",
+                "Incorrecta 4c",
+                "Incorrecta 4d",
+                "Incorrecta 4e",
+                "Incorrecta 4f"
+              ]
+            },
+            {
+              "questionId": 5,
+              "category": "driver",
+              "question": "Pergunta 5",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Drivers/IndyCar-Series/Headshot/SantinoFerrucci.jpg",
+              "imageType": "SQUARE",
+              "right": "Correcta 5",
+              "wrongs":
+              [
+                "Incorrecta 5a",
+                "Incorrecta 5b",
+                "Incorrecta 5c",
+                "Incorrecta 5d",
+                "Incorrecta 5e",
+                "Incorrecta 5f"
+              ]
+            },
+            {
+              "questionId": 6,
+              "category": "driver",
+              "question": "Pergunta 6",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Cars/2024/IndyCar-Series/Endplates/14-Black-T.png",
+              "imageType": "SQUARE",
+              "right": "Correcta 6",
+              "wrongs":
+              [
+                "Incorrecta 6a",
+                "Incorrecta 6b",
+                "Incorrecta 6c",
+                "Incorrecta 6d",
+                "Incorrecta 6e",
+                "Incorrecta 6f"
+              ]
+            },
+            {
+              "questionId": 7,
+              "category": "team",
+              "question": "Pergunta 7",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ChipGanassiRacing.png",
+              "imageType": "SQUARE",
+              "right": "Correcta 7",
+              "wrongs":
+              [
+                "Incorrecta 7a",
+                "Incorrecta 7b",
+                "Incorrecta 7c",
+                "Incorrecta 7d",
+                "Incorrecta 7e",
+                "Incorrecta 7f"
+              ]
+            },
+            {
+              "questionId": 8,
+              "category": "team",
+              "question": "Pergunta 8",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Logos/honda-logo-icon.png",
+              "imageType": "SQUARE",
+              "right": "Correcta 8",
+              "wrongs":
+              [
+                "Incorrecta 8a",
+                "Incorrecta 8b",
+                "Incorrecta 8c",
+                "Incorrecta 8d",
+                "Incorrecta 8e",
+                "Incorrecta 8f"
+              ]
+            }
+          ]
+        }
       }
     ]
   }
