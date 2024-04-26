@@ -3669,36 +3669,544 @@
               ]
             },
             {
-              "questionId": 600,
               "category": "team",
-              "question": "Pergunta 7",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/AJFoytRacing.png",
+              "questionId": 600,
+              "imageType": "SQUARE",
+              "wrongs": [
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "right": "A.J. Foyt Enterprises",
+              "question": "What is the name of this team?"
+            },
+            {
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/AJFoytRacing.png",
+              "question": "Where is this team's head office?",
+              "category": "team",
+              "wrongs": [
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Indianapolis, Indiana",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
+              ],
+              "imageType": "SQUARE",
+              "right": "Waller, Texas",
+              "questionId": 601
+            },
+            {
+              "right": "Santino Ferrucci, Sting Ray Robb",
+              "category": "team",
+              "imageType": "SQUARE",
+              "wrongs": [
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/AJFoytRacing.png",
+              "question": "What is the driver line-up of this team?",
+              "questionId": 602
+            },
+            {
+              "question": "What is the name of this team?",
+              "right": "Andretti Global",
+              "imageType": "SQUARE",
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "questionId": 603,
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/AndrettiGlobal.png",
+              "category": "team"
+            },
+            {
+              "wrongs": [
+                "Waller, Texas",
+                "Plainfield, Illinois",
+                "Indianapolis, Indiana",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
+              ],
+              "imageType": "SQUARE",
+              "question": "Where is this team's head office?",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/AndrettiGlobal.png",
+              "questionId": 604,
+              "right": "Fishers, Indiana",
+              "category": "team"
+            },
+            {
+              "imageType": "SQUARE",
+              "category": "team",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/AndrettiGlobal.png",
+              "question": "What is the driver line-up of this team?",
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "questionId": 605,
+              "right": "Colton Herta, Kyle Kirkwood, Marcus Ericsson"
+            },
+            {
+              "question": "What is the name of this team?",
+              "right": "Arrow McLaren",
+              "category": "team",
+              "questionId": 606,
+              "imageType": "SQUARE",
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ArrowMcLaren.png"
+            },
+            {
+              "category": "team",
+              "imageType": "SQUARE",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ArrowMcLaren.png",
+              "right": "Indianapolis, Indiana",
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
+              ],
+              "questionId": 607,
+              "question": "Where is this team's head office?"
+            },
+            {
+              "question": "What is the driver line-up of this team?",
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ArrowMcLaren.png",
+              "category": "team",
+              "right": "Pato O'Ward, David Malukas, Alexander Rossi",
+              "imageType": "SQUARE",
+              "questionId": 608
+            },
+            {
+              "right": "Chip Ganassi",
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ChipGanassiRacing.png",
+              "questionId": 609,
+              "question": "What is the name of this team?",
+              "imageType": "SQUARE",
+              "category": "team"
+            },
+            {
+              "category": "team",
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
+              ],
+              "question": "Where is this team's head office?",
+              "right": "Indianapolis, Indiana",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ChipGanassiRacing.png",
+              "questionId": 610,
+              "imageType": "SQUARE"
+            },
+            {
+              "right": "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "questionId": 611,
+              "category": "team",
               "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ChipGanassiRacing.png",
               "imageType": "SQUARE",
-              "right": "Certa 7",
+              "question": "What is the driver line-up of this team?"
+            },
+            {
               "wrongs": [
-                "Errada 7a",
-                "Errada 7b",
-                "Errada 7c",
-                "Errada 7d",
-                "Errada 7e",
-                "Errada 7f"
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "question": "What is the name of this team?",
+              "imageType": "SQUARE",
+              "category": "team",
+              "questionId": 612,
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/DaleCoyneRacing.png",
+              "right": "Dale Coyne"
+            },
+            {
+              "right": "Plainfield, Illinois",
+              "question": "Where is this team's head office?",
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Indianapolis, Indiana",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
+              ],
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/DaleCoyneRacing.png",
+              "category": "team",
+              "imageType": "SQUARE",
+              "questionId": 613
+            },
+            {
+              "imageType": "SQUARE",
+              "right": "Jack Harvey, Colin Braun",
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "category": "team",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/DaleCoyneRacing.png",
+              "question": "What is the driver line-up of this team?",
+              "questionId": 614
+            },
+            {
+              "question": "What is the name of this team?",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/EdCarpenterRacing.png",
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "questionId": 615,
+              "category": "team",
+              "right": "Ed Carpenter",
+              "imageType": "SQUARE"
+            },
+            {
+              "questionId": 616,
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/EdCarpenterRacing.png",
+              "category": "team",
+              "imageType": "SQUARE",
+              "right": "Indianapolis, Indiana",
+              "question": "Where is this team's head office?",
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
               ]
             },
             {
-              "questionId": 601,
+              "question": "What is the driver line-up of this team?",
               "category": "team",
-              "question": "Pergunta 8",
-              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Logos/honda-logo-icon.png",
               "imageType": "SQUARE",
-              "right": "Certa 8",
+              "right": "Christian Rasmussen, Rinus VeeKay",
               "wrongs": [
-                "Errada 8a",
-                "Errada 8b",
-                "Errada 8c",
-                "Errada 8d",
-                "Errada 8e",
-                "Errada 8f"
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/EdCarpenterRacing.png",
+              "questionId": 617
+            },
+            {
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "question": "What is the name of this team?",
+              "right": "Juncos Hollinger Racing",
+              "category": "team",
+              "questionId": 618,
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/Juncos-Hollinger-Racing.png",
+              "imageType": "SQUARE"
+            },
+            {
+              "right": "Indianapolis, Indiana",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/Juncos-Hollinger-Racing.png",
+              "questionId": 619,
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
+              ],
+              "question": "Where is this team's head office?",
+              "imageType": "SQUARE",
+              "category": "team"
+            },
+            {
+              "question": "What is the driver line-up of this team?",
+              "imageType": "SQUARE",
+              "category": "team",
+              "right": "Romain Grosjean, Agustín Canapino",
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "questionId": 620,
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/Juncos-Hollinger-Racing.png"
+            },
+            {
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/Meyer-Shank-Racing.png",
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "questionId": 621,
+              "question": "What is the name of this team?",
+              "imageType": "SQUARE",
+              "category": "team",
+              "right": "Meyer Shank Racing"
+            },
+            {
+              "category": "team",
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Indianapolis, Indiana",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
+              ],
+              "right": "Pataskala, Ohio",
+              "imageType": "SQUARE",
+              "questionId": 622,
+              "question": "Where is this team's head office?",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/Meyer-Shank-Racing.png"
+            },
+            {
+              "right": "Felix Rosenqvist, Tom Blomqvist",
+              "question": "What is the driver line-up of this team?",
+              "questionId": 623,
+              "imageType": "SQUARE",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/Meyer-Shank-Racing.png",
+              "category": "team",
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
               ]
+            },
+            {
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/RahalLettermanLanigan.png",
+              "imageType": "SQUARE",
+              "category": "team",
+              "question": "What is the name of this team?",
+              "questionId": 624,
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Team Penske"
+              ],
+              "right": "Rahal Letterman Lanigan"
+            },
+            {
+              "imageType": "SQUARE",
+              "right": "Zionsville, Indiana",
+              "category": "team",
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Indianapolis, Indiana",
+                "Pataskala, Ohio",
+                "Mooresville, North Carolina"
+              ],
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/RahalLettermanLanigan.png",
+              "question": "Where is this team's head office?",
+              "questionId": 625
+            },
+            {
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/RahalLettermanLanigan.png",
+              "question": "What is the driver line-up of this team?",
+              "right": "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+              "questionId": 626,
+              "imageType": "SQUARE",
+              "category": "team"
+            },
+            {
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/PenskeRacing.png",
+              "questionId": 627,
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan"
+              ],
+              "category": "team",
+              "right": "Team Penske",
+              "imageType": "SQUARE",
+              "question": "What is the name of this team?"
+            },
+            {
+              "questionId": 628,
+              "right": "Mooresville, North Carolina",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/PenskeRacing.png",
+              "question": "Where is this team's head office?",
+              "imageType": "SQUARE",
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Indianapolis, Indiana",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana"
+              ],
+              "category": "team"
+            },
+            {
+              "questionId": 629,
+              "question": "What is the driver line-up of this team?",
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard"
+              ],
+              "category": "team",
+              "imageType": "SQUARE",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/PenskeRacing.png",
+              "right": "Josef Newgarden, Scott McLaughlin, Will Power"
             }
           ],
           "portuguese": [
@@ -6213,36 +6721,544 @@
               ]
             },
             {
-              "questionId": 600,
-              "category": "team",
-              "question": "Pergunta 7",
-              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ChipGanassiRacing.png",
-              "imageType": "SQUARE",
-              "right": "Certa 7",
               "wrongs": [
-                "Errada 7a",
-                "Errada 7b",
-                "Errada 7c",
-                "Errada 7d",
-                "Errada 7e",
-                "Errada 7f"
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "question": "Qual é o nome desta equipe?",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/AJFoytRacing.png",
+              "questionId": 600,
+              "right": "A.J. Foyt Enterprises",
+              "category": "team",
+              "imageType": "SQUARE"
+            },
+            {
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/AJFoytRacing.png",
+              "imageType": "SQUARE",
+              "wrongs": [
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Indianapolis, Indiana",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
+              ],
+              "question": "Aonde fica localizada a sede desta equipe?",
+              "right": "Waller, Texas",
+              "category": "team",
+              "questionId": 601
+            },
+            {
+              "right": "Santino Ferrucci, Sting Ray Robb",
+              "imageType": "SQUARE",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/AJFoytRacing.png",
+              "questionId": 602,
+              "wrongs": [
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "category": "team",
+              "question": "Qual é a formação de pilotos desta equipe?"
+            },
+            {
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/AndrettiGlobal.png",
+              "right": "Andretti Global",
+              "question": "Qual é o nome desta equipe?",
+              "questionId": 603,
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "imageType": "SQUARE",
+              "category": "team"
+            },
+            {
+              "wrongs": [
+                "Waller, Texas",
+                "Plainfield, Illinois",
+                "Indianapolis, Indiana",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
+              ],
+              "questionId": 604,
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/AndrettiGlobal.png",
+              "right": "Fishers, Indiana",
+              "imageType": "SQUARE",
+              "category": "team",
+              "question": "Aonde fica localizada a sede desta equipe?"
+            },
+            {
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "question": "Qual é a formação de pilotos desta equipe?",
+              "category": "team",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/AndrettiGlobal.png",
+              "imageType": "SQUARE",
+              "questionId": 605,
+              "right": "Colton Herta, Kyle Kirkwood, Marcus Ericsson"
+            },
+            {
+              "category": "team",
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "question": "Qual é o nome desta equipe?",
+              "questionId": 606,
+              "imageType": "SQUARE",
+              "right": "Arrow McLaren",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ArrowMcLaren.png"
+            },
+            {
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
+              ],
+              "imageType": "SQUARE",
+              "questionId": 607,
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ArrowMcLaren.png",
+              "right": "Indianapolis, Indiana",
+              "question": "Aonde fica localizada a sede desta equipe?",
+              "category": "team"
+            },
+            {
+              "imageType": "SQUARE",
+              "right": "Pato O'Ward, David Malukas, Alexander Rossi",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ArrowMcLaren.png",
+              "questionId": 608,
+              "category": "team",
+              "question": "Qual é a formação de pilotos desta equipe?",
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
               ]
             },
             {
-              "questionId": 601,
-              "category": "team",
-              "question": "Pergunta 8",
-              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Logos/honda-logo-icon.png",
-              "imageType": "SQUARE",
-              "right": "Certa 8",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ChipGanassiRacing.png",
               "wrongs": [
-                "Errada 8a",
-                "Errada 8b",
-                "Errada 8c",
-                "Errada 8d",
-                "Errada 8e",
-                "Errada 8f"
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "question": "Qual é o nome desta equipe?",
+              "category": "team",
+              "imageType": "SQUARE",
+              "questionId": 609,
+              "right": "Chip Ganassi"
+            },
+            {
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ChipGanassiRacing.png",
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
+              ],
+              "right": "Indianapolis, Indiana",
+              "category": "team",
+              "question": "Aonde fica localizada a sede desta equipe?",
+              "imageType": "SQUARE",
+              "questionId": 610
+            },
+            {
+              "questionId": 611,
+              "imageType": "SQUARE",
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "right": "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+              "question": "Qual é a formação de pilotos desta equipe?",
+              "category": "team",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ChipGanassiRacing.png"
+            },
+            {
+              "question": "Qual é o nome desta equipe?",
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/DaleCoyneRacing.png",
+              "right": "Dale Coyne",
+              "imageType": "SQUARE",
+              "questionId": 612,
+              "category": "team"
+            },
+            {
+              "question": "Aonde fica localizada a sede desta equipe?",
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Indianapolis, Indiana",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
+              ],
+              "questionId": 613,
+              "category": "team",
+              "right": "Plainfield, Illinois",
+              "imageType": "SQUARE",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/DaleCoyneRacing.png"
+            },
+            {
+              "right": "Jack Harvey, Colin Braun",
+              "question": "Qual é a formação de pilotos desta equipe?",
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "questionId": 614,
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/DaleCoyneRacing.png",
+              "category": "team",
+              "imageType": "SQUARE"
+            },
+            {
+              "right": "Ed Carpenter",
+              "category": "team",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/EdCarpenterRacing.png",
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "imageType": "SQUARE",
+              "questionId": 615,
+              "question": "Qual é o nome desta equipe?"
+            },
+            {
+              "questionId": 616,
+              "category": "team",
+              "imageType": "SQUARE",
+              "question": "Aonde fica localizada a sede desta equipe?",
+              "right": "Indianapolis, Indiana",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/EdCarpenterRacing.png",
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
               ]
+            },
+            {
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/EdCarpenterRacing.png",
+              "imageType": "SQUARE",
+              "right": "Christian Rasmussen, Rinus VeeKay",
+              "category": "team",
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "questionId": 617,
+              "question": "Qual é a formação de pilotos desta equipe?"
+            },
+            {
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "imageType": "SQUARE",
+              "right": "Juncos Hollinger Racing",
+              "questionId": 618,
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/Juncos-Hollinger-Racing.png",
+              "question": "Qual é o nome desta equipe?",
+              "category": "team"
+            },
+            {
+              "right": "Indianapolis, Indiana",
+              "question": "Aonde fica localizada a sede desta equipe?",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/Juncos-Hollinger-Racing.png",
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
+              ],
+              "category": "team",
+              "imageType": "SQUARE",
+              "questionId": 619
+            },
+            {
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "category": "team",
+              "imageType": "SQUARE",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/Juncos-Hollinger-Racing.png",
+              "right": "Romain Grosjean, Agustín Canapino",
+              "question": "Qual é a formação de pilotos desta equipe?",
+              "questionId": 620
+            },
+            {
+              "question": "Qual é o nome desta equipe?",
+              "questionId": 621,
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/Meyer-Shank-Racing.png",
+              "right": "Meyer Shank Racing",
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "category": "team",
+              "imageType": "SQUARE"
+            },
+            {
+              "right": "Pataskala, Ohio",
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Indianapolis, Indiana",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
+              ],
+              "category": "team",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/Meyer-Shank-Racing.png",
+              "imageType": "SQUARE",
+              "questionId": 622,
+              "question": "Aonde fica localizada a sede desta equipe?"
+            },
+            {
+              "questionId": 623,
+              "right": "Felix Rosenqvist, Tom Blomqvist",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/Meyer-Shank-Racing.png",
+              "category": "team",
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "imageType": "SQUARE",
+              "question": "Qual é a formação de pilotos desta equipe?"
+            },
+            {
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/RahalLettermanLanigan.png",
+              "imageType": "SQUARE",
+              "category": "team",
+              "question": "Qual é o nome desta equipe?",
+              "right": "Rahal Letterman Lanigan",
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Team Penske"
+              ],
+              "questionId": 624
+            },
+            {
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Indianapolis, Indiana",
+                "Pataskala, Ohio",
+                "Mooresville, North Carolina"
+              ],
+              "right": "Zionsville, Indiana",
+              "category": "team",
+              "imageType": "SQUARE",
+              "question": "Aonde fica localizada a sede desta equipe?",
+              "questionId": 625,
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/RahalLettermanLanigan.png"
+            },
+            {
+              "category": "team",
+              "imageType": "SQUARE",
+              "question": "Qual é a formação de pilotos desta equipe?",
+              "right": "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "questionId": 626,
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/RahalLettermanLanigan.png"
+            },
+            {
+              "imageType": "SQUARE",
+              "category": "team",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/PenskeRacing.png",
+              "question": "Qual é o nome desta equipe?",
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan"
+              ],
+              "right": "Team Penske",
+              "questionId": 627
+            },
+            {
+              "right": "Mooresville, North Carolina",
+              "question": "Aonde fica localizada a sede desta equipe?",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/PenskeRacing.png",
+              "category": "team",
+              "questionId": 628,
+              "imageType": "SQUARE",
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Indianapolis, Indiana",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana"
+              ]
+            },
+            {
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard"
+              ],
+              "questionId": 629,
+              "question": "Qual é a formação de pilotos desta equipe?",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/PenskeRacing.png",
+              "right": "Josef Newgarden, Scott McLaughlin, Will Power",
+              "imageType": "SQUARE",
+              "category": "team"
             }
           ],
           "spanish": [
@@ -8757,36 +9773,544 @@
               ]
             },
             {
-              "questionId": 600,
-              "category": "team",
-              "question": "Pergunta 7",
-              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ChipGanassiRacing.png",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/AJFoytRacing.png",
               "imageType": "SQUARE",
-              "right": "Correcta 7",
+              "right": "A.J. Foyt Enterprises",
+              "question": "¿Cuál es el nombre de este equipo?",
               "wrongs": [
-                "Incorrecta 7a",
-                "Incorrecta 7b",
-                "Incorrecta 7c",
-                "Incorrecta 7d",
-                "Incorrecta 7e",
-                "Incorrecta 7f"
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "category": "team",
+              "questionId": 600
+            },
+            {
+              "question": "¿Dónde está la sede de este equipo?",
+              "questionId": 601,
+              "category": "team",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/AJFoytRacing.png",
+              "imageType": "SQUARE",
+              "right": "Waller, Texas",
+              "wrongs": [
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Indianapolis, Indiana",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
               ]
             },
             {
-              "questionId": 601,
-              "category": "team",
-              "question": "Pergunta 8",
-              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Logos/honda-logo-icon.png",
-              "imageType": "SQUARE",
-              "right": "Correcta 8",
               "wrongs": [
-                "Incorrecta 8a",
-                "Incorrecta 8b",
-                "Incorrecta 8c",
-                "Incorrecta 8d",
-                "Incorrecta 8e",
-                "Incorrecta 8f"
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "right": "Santino Ferrucci, Sting Ray Robb",
+              "category": "team",
+              "questionId": 602,
+              "question": "¿Cuál es la alineación de pilotos de este equipo?",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/AJFoytRacing.png",
+              "imageType": "SQUARE"
+            },
+            {
+              "question": "¿Cuál es el nombre de este equipo?",
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "right": "Andretti Global",
+              "category": "team",
+              "imageType": "SQUARE",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/AndrettiGlobal.png",
+              "questionId": 603
+            },
+            {
+              "question": "¿Dónde está la sede de este equipo?",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/AndrettiGlobal.png",
+              "wrongs": [
+                "Waller, Texas",
+                "Plainfield, Illinois",
+                "Indianapolis, Indiana",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
+              ],
+              "imageType": "SQUARE",
+              "questionId": 604,
+              "right": "Fishers, Indiana",
+              "category": "team"
+            },
+            {
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/AndrettiGlobal.png",
+              "imageType": "SQUARE",
+              "question": "¿Cuál es la alineación de pilotos de este equipo?",
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "right": "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+              "category": "team",
+              "questionId": 605
+            },
+            {
+              "right": "Arrow McLaren",
+              "imageType": "SQUARE",
+              "category": "team",
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ArrowMcLaren.png",
+              "questionId": 606,
+              "question": "¿Cuál es el nombre de este equipo?"
+            },
+            {
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
+              ],
+              "imageType": "SQUARE",
+              "right": "Indianapolis, Indiana",
+              "questionId": 607,
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ArrowMcLaren.png",
+              "question": "¿Dónde está la sede de este equipo?",
+              "category": "team"
+            },
+            {
+              "imageType": "SQUARE",
+              "questionId": 608,
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "question": "¿Cuál es la alineación de pilotos de este equipo?",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ArrowMcLaren.png",
+              "right": "Pato O'Ward, David Malukas, Alexander Rossi",
+              "category": "team"
+            },
+            {
+              "question": "¿Cuál es el nombre de este equipo?",
+              "category": "team",
+              "imageType": "SQUARE",
+              "right": "Chip Ganassi",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ChipGanassiRacing.png",
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "questionId": 609
+            },
+            {
+              "imageType": "SQUARE",
+              "question": "¿Dónde está la sede de este equipo?",
+              "questionId": 610,
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
+              ],
+              "right": "Indianapolis, Indiana",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ChipGanassiRacing.png",
+              "category": "team"
+            },
+            {
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/ChipGanassiRacing.png",
+              "question": "¿Cuál es la alineación de pilotos de este equipo?",
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "questionId": 611,
+              "right": "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+              "imageType": "SQUARE",
+              "category": "team"
+            },
+            {
+              "questionId": 612,
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "question": "¿Cuál es el nombre de este equipo?",
+              "category": "team",
+              "right": "Dale Coyne",
+              "imageType": "SQUARE",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/DaleCoyneRacing.png"
+            },
+            {
+              "category": "team",
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Indianapolis, Indiana",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
+              ],
+              "question": "¿Dónde está la sede de este equipo?",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/DaleCoyneRacing.png",
+              "questionId": 613,
+              "imageType": "SQUARE",
+              "right": "Plainfield, Illinois"
+            },
+            {
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "imageType": "SQUARE",
+              "question": "¿Cuál es la alineación de pilotos de este equipo?",
+              "right": "Jack Harvey, Colin Braun",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/DaleCoyneRacing.png",
+              "category": "team",
+              "questionId": 614
+            },
+            {
+              "category": "team",
+              "questionId": 615,
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "right": "Ed Carpenter",
+              "question": "¿Cuál es el nombre de este equipo?",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/EdCarpenterRacing.png",
+              "imageType": "SQUARE"
+            },
+            {
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
+              ],
+              "questionId": 616,
+              "imageType": "SQUARE",
+              "question": "¿Dónde está la sede de este equipo?",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/EdCarpenterRacing.png",
+              "right": "Indianapolis, Indiana",
+              "category": "team"
+            },
+            {
+              "right": "Christian Rasmussen, Rinus VeeKay",
+              "imageType": "SQUARE",
+              "questionId": 617,
+              "question": "¿Cuál es la alineación de pilotos de este equipo?",
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "category": "team",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/EdCarpenterRacing.png"
+            },
+            {
+              "imageType": "SQUARE",
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "question": "¿Cuál es el nombre de este equipo?",
+              "category": "team",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/Juncos-Hollinger-Racing.png",
+              "right": "Juncos Hollinger Racing",
+              "questionId": 618
+            },
+            {
+              "question": "¿Dónde está la sede de este equipo?",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/Juncos-Hollinger-Racing.png",
+              "imageType": "SQUARE",
+              "questionId": 619,
+              "right": "Indianapolis, Indiana",
+              "category": "team",
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
               ]
+            },
+            {
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/Juncos-Hollinger-Racing.png",
+              "category": "team",
+              "right": "Romain Grosjean, Agustín Canapino",
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "imageType": "SQUARE",
+              "questionId": 620,
+              "question": "¿Cuál es la alineación de pilotos de este equipo?"
+            },
+            {
+              "imageType": "SQUARE",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/Meyer-Shank-Racing.png",
+              "question": "¿Cuál es el nombre de este equipo?",
+              "questionId": 621,
+              "category": "team",
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Rahal Letterman Lanigan",
+                "Team Penske"
+              ],
+              "right": "Meyer Shank Racing"
+            },
+            {
+              "right": "Pataskala, Ohio",
+              "questionId": 622,
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/Meyer-Shank-Racing.png",
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Indianapolis, Indiana",
+                "Zionsville, Indiana",
+                "Mooresville, North Carolina"
+              ],
+              "question": "¿Dónde está la sede de este equipo?",
+              "category": "team",
+              "imageType": "SQUARE"
+            },
+            {
+              "category": "team",
+              "right": "Felix Rosenqvist, Tom Blomqvist",
+              "questionId": 623,
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ],
+              "question": "¿Cuál es la alineación de pilotos de este equipo?",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/Meyer-Shank-Racing.png",
+              "imageType": "SQUARE"
+            },
+            {
+              "question": "¿Cuál es el nombre de este equipo?",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/RahalLettermanLanigan.png",
+              "questionId": 624,
+              "imageType": "SQUARE",
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Team Penske"
+              ],
+              "category": "team",
+              "right": "Rahal Letterman Lanigan"
+            },
+            {
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/RahalLettermanLanigan.png",
+              "imageType": "SQUARE",
+              "questionId": 625,
+              "category": "team",
+              "question": "¿Dónde está la sede de este equipo?",
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Indianapolis, Indiana",
+                "Pataskala, Ohio",
+                "Mooresville, North Carolina"
+              ],
+              "right": "Zionsville, Indiana"
+            },
+            {
+              "category": "team",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/RahalLettermanLanigan.png",
+              "right": "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard",
+              "question": "¿Cuál es la alineación de pilotos de este equipo?",
+              "imageType": "SQUARE",
+              "questionId": 626,
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Josef Newgarden, Scott McLaughlin, Will Power"
+              ]
+            },
+            {
+              "question": "¿Cuál es el nombre de este equipo?",
+              "wrongs": [
+                "A.J. Foyt Enterprises",
+                "Andretti Global",
+                "Arrow McLaren",
+                "Chip Ganassi",
+                "Dale Coyne",
+                "Ed Carpenter",
+                "Juncos Hollinger Racing",
+                "Meyer Shank Racing",
+                "Rahal Letterman Lanigan"
+              ],
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/PenskeRacing.png",
+              "questionId": 627,
+              "imageType": "SQUARE",
+              "right": "Team Penske",
+              "category": "team"
+            },
+            {
+              "category": "team",
+              "right": "Mooresville, North Carolina",
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/PenskeRacing.png",
+              "imageType": "SQUARE",
+              "question": "¿Dónde está la sede de este equipo?",
+              "questionId": 628,
+              "wrongs": [
+                "Waller, Texas",
+                "Fishers, Indiana",
+                "Plainfield, Illinois",
+                "Indianapolis, Indiana",
+                "Pataskala, Ohio",
+                "Zionsville, Indiana"
+              ]
+            },
+            {
+              "imageUrl": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Team/PenskeRacing.png",
+              "imageType": "SQUARE",
+              "category": "team",
+              "questionId": 629,
+              "wrongs": [
+                "Santino Ferrucci, Sting Ray Robb",
+                "Colton Herta, Kyle Kirkwood, Marcus Ericsson",
+                "Pato O'Ward, David Malukas, Alexander Rossi",
+                "Kyffin Simpson, Linus Lundqvist, Scott Dixon, Alex Palou, Marcus Armstrong",
+                "Jack Harvey, Colin Braun",
+                "Christian Rasmussen, Rinus VeeKay",
+                "Romain Grosjean, Agustín Canapino",
+                "Felix Rosenqvist, Tom Blomqvist",
+                "Graham Rahal, Pietro Fittipaldi, Christian Lundgaard"
+              ],
+              "right": "Josef Newgarden, Scott McLaughlin, Will Power",
+              "question": "¿Cuál es la alineación de pilotos de este equipo?"
             }
           ]
         }
